@@ -1,0 +1,823 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Sat Mar 24 16:43:08 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.1) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Sat Mar 24 16:43:06 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.1) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Sat Mar 24 15:50:44 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.1) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Sat Mar 24 15:50:42 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.1) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Sat Mar 24 15:11:56 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.1) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Sat Mar 24 15:11:55 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.1) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Fri Mar 23 10:32:24 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 from xilinx.com:user:PMOD_AD1_Driver:2.0 (Rev. 9) to xilinx.com:user:PMOD_AD1_Driver:2.1 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Fri Mar 23 10:32:23 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 from xilinx.com:user:PMOD_AD1_Driver:2.0 (Rev. 9) to xilinx.com:user:PMOD_AD1_Driver:2.1 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Fri Mar 23 10:12:23 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Fri Mar 23 10:12:22 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Fri Mar 23 09:40:21 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Fri Mar 23 09:40:20 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Fri Mar 23 09:17:37 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Fri Mar 23 09:17:35 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 16:04:48 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 16:04:46 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 13:30:11 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 13:30:09 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 13:08:12 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 13:08:11 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 12:48:30 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 12:48:29 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:2.0) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 12:20:59 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 from xilinx.com:user:PMOD_AD1_Driver:1.5 (Rev. 12) to xilinx.com:user:PMOD_AD1_Driver:2.0 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Mar 22 12:20:56 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 from xilinx.com:user:PMOD_AD1_Driver:1.5 (Rev. 12) to xilinx.com:user:PMOD_AD1_Driver:2.0 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Mar 21 20:38:38 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Mar 21 20:38:36 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Tue Mar 20 16:35:25 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Tue Mar 20 16:35:23 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Tue Mar 20 16:06:21 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 9) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Tue Mar 20 16:06:18 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 9) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Tue Mar 20 11:40:41 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 8) to (Rev. 9)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_2_PMOD_AD1_Driver_0_0'. These changes may impact your design.
+
+
+-Upgraded port 'm00_axis_tdata' width 16 differs from original width 32
+
+-Upgraded port 'm00_axis_tstrb' width 2 differs from original width 4
+
+-Upgrade has added port 'Enable'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Tue Mar 20 11:40:40 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 8) to (Rev. 9)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'DMA_design_PMOD_AD1_Driver_0_0'. These changes may impact your design.
+
+
+-Upgraded port 'm00_axis_tdata' width 16 differs from original width 32
+
+-Upgraded port 'm00_axis_tstrb' width 2 differs from original width 4
+
+-Upgrade has added port 'Enable'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Tue Mar 20 11:17:46 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Tue Mar 20 11:17:45 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Mon Mar 19 16:09:11 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Mon Mar 19 16:09:09 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Mon Mar 19 15:18:22 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Mon Mar 19 15:18:19 2018
+| Host         : Thomas-Laptop running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'DMA_design_PMOD_AD1_Driver_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of DMA_design_PMOD_AD1_Driver_0_0 (xilinx.com:user:PMOD_AD1_Driver:1.5) from (Rev. 5) to (Rev. 6)
+

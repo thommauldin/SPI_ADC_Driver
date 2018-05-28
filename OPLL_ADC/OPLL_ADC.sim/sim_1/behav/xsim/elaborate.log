@@ -1,0 +1,15 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto f2c54a748440455284da7efb8fa64a3d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xlconstant_v1_1_3 -L xilinx_vip -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot PMOD_IP_Testbench_behav xil_defaultlib.PMOD_IP_Testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-426] cannot find port M_AXIS_tready on this module [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v:67]
+ERROR: [VRFC 10-426] cannot find port M_AXIS_tlast on this module [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v:66]
+ERROR: [VRFC 10-426] cannot find port M_AXIS_tstrb on this module [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v:65]
+ERROR: [VRFC 10-426] cannot find port M_AXIS_tdata on this module [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v:64]
+ERROR: [VRFC 10-426] cannot find port M_AXIS_tvalid on this module [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v:63]
+ERROR: [VRFC 10-426] cannot find port reset on this module [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v:62]
+ERROR: [VRFC 10-426] cannot find port clk on this module [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v:61]
+ERROR: [VRFC 10-426] cannot find port ADC on this module [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v:58]
+ERROR: [VRFC 10-2063] Module <design_2> not found while processing module instance <design_2_i> [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sources_1/bd/design_2/hdl/design_2_wrapper.v:30]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

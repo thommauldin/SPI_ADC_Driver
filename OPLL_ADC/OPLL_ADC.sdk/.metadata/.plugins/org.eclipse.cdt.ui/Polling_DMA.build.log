@@ -1,0 +1,23 @@
+17:13:38 **** Auto Build of configuration Debug for project Polling_DMA ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/Polling_DMA.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/Polling_DMA.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../PMODAD1_to_DDR_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/Polling_DMA.d" -MT"src/Polling_DMA.o" -o "src/Polling_DMA.o" "../src/Polling_DMA.c"
+'Finished building: ../src/Polling_DMA.c'
+' '
+'Building target: Polling_DMA.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../PMODAD1_to_DDR_bsp/ps7_cortexa9_0/lib -o "Polling_DMA.elf"  ./src/Polling_DMA.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Polling_DMA.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Polling_DMA.elf  |tee "Polling_DMA.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34292	   2252	  10168	  46712	   b678	Polling_DMA.elf
+'Finished building: Polling_DMA.elf.size'
+' '
+
+17:13:42 Build Finished (took 4s.382ms)
+

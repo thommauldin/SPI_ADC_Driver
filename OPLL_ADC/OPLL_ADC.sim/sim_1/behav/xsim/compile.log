@@ -1,0 +1,23 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.ip_user_files/bd/design_2/ipshared/656a/hdl/PMOD_AD1_Driver_v1_0_M00_AXIS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PMOD_AD1_Driver_v1_0_M00_AXIS
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.ip_user_files/bd/design_2/ipshared/656a/hdl/PMOD_AD1_Driver_v1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PMOD_AD1_Driver_v1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.ip_user_files/bd/design_2/ip/design_2_PMOD_AD1_Driver_0_0/sim/design_2_PMOD_AD1_Driver_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_2_PMOD_AD1_Driver_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.ip_user_files/bd/design_2/sim/design_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.ip_user_files/bd/design_2/ip/design_2_ila_0_0/sim/design_2_ila_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_2_ila_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.ip_user_files/bd/design_2/ip/design_2_clk_wiz_0_0/design_2_clk_wiz_0_0_sim_netlist.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_2_clk_wiz_0_0
+INFO: [VRFC 10-311] analyzing module design_2_clk_wiz_0_0_design_2_clk_wiz_0_0_clk_wiz
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.ip_user_files/bd/design_2/ip/design_2_xlconstant_0_0/sim/design_2_xlconstant_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_2_xlconstant_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sources_1/bd/design_2/hdl/design_2_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_2_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PMOD_IP_Testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+WARNING: [VRFC 10-2421] module glbl is previously defined, ignoring this definition [D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.sim/sim_1/behav/xsim/glbl.v:6]

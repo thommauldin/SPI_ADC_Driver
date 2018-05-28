@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../OPLL_ADC.srcs/sources_1/bd/DMA_design/ipshared/ec67/hdl" --include "../../../../OPLL_ADC.srcs/sources_1/bd/DMA_design/ipshared/02c8/hdl/verilog" --include "../../../../OPLL_ADC.srcs/sources_1/bd/DMA_design/ipshared/1313/hdl" --include "../../../../OPLL_ADC.srcs/sources_1/bd/DMA_design/ipshared/e2dd/hdl/verilog" --include "../../../../OPLL_ADC.srcs/sources_1/bd/design_2/ipshared/4868" --include "../../../../OPLL_ADC.srcs/sources_1/bd/design_1/ipshared/4868" --include "C:/Xilinx/SDK/2017.4/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_3/src" --include "C:/Xilinx/SDK/2017.4/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_3/data" --include "C:/Xilinx/Vivado/2017.4/data/xilinx_vip/include" \
+"../../../../OPLL_ADC.ip_user_files/bd/design_2/ipshared/656a/hdl/PMOD_AD1_Driver_v1_0_M00_AXIS.v" \
+"../../../../OPLL_ADC.ip_user_files/bd/design_2/ipshared/656a/hdl/PMOD_AD1_Driver_v1_0.v" \
+"../../../../OPLL_ADC.ip_user_files/bd/design_2/ip/design_2_PMOD_AD1_Driver_0_0/sim/design_2_PMOD_AD1_Driver_0_0.v" \
+"../../../../OPLL_ADC.ip_user_files/bd/design_2/sim/design_2.v" \
+"../../../../OPLL_ADC.ip_user_files/bd/design_2/ip/design_2_ila_0_0/sim/design_2_ila_0_0.v" \
+"../../../../OPLL_ADC.ip_user_files/bd/design_2/ip/design_2_clk_wiz_0_0/design_2_clk_wiz_0_0_sim_netlist.v" \
+"../../../../OPLL_ADC.ip_user_files/bd/design_2/ip/design_2_xlconstant_0_0/sim/design_2_xlconstant_0_0.v" \
+"../../../../OPLL_ADC.srcs/sources_1/bd/design_2/hdl/design_2_wrapper.v" \
+"../../../../OPLL_ADC.srcs/sim_1/new/PMOD_IP_Testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

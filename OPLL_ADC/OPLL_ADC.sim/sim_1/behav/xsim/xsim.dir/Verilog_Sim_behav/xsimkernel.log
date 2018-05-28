@@ -1,0 +1,7 @@
+Running: xsim.dir/Verilog_Sim_behav/xsimk.exe -simmode gui -wdb Verilog_Sim_behav.wdb -simrunnum 0 -socket 52758
+Design successfully loaded
+Design Loading Memory Usage: 6584 KB (Peak: 6584 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 8160 KB (Peak: 8160 KB)
+Simulation CPU Usage: 61 ms

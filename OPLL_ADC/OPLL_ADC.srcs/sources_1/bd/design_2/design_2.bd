@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<bd:repository xmlns:bd="http://www.xilinx.com/bd" bd:BoundaryCRC="0xA8AE58595ADF98F8" bd:device="xc7z020clg484-1" bd:synthFlowMode="Hierarchical" bd:tool_version="2017.4" bd:top="design_2" bd:version="1.00.a">
+
+  <spirit:component xmlns:spirit="http://www.spiritconsortium.org/XMLSchema/SPIRIT/1685-2009">
+    <spirit:vendor>xilinx.com</spirit:vendor>
+    <spirit:library>BlockDiagram</spirit:library>
+    <spirit:name>design_2</spirit:name>
+    <spirit:version>1.00.a</spirit:version>
+    <spirit:parameters>
+      <spirit:parameter>
+        <spirit:name>isTop</spirit:name>
+        <spirit:value spirit:format="bool" spirit:resolve="immediate">true</spirit:value>
+      </spirit:parameter>
+    </spirit:parameters>
+    <spirit:busInterfaces>
+      <spirit:busInterface>
+        <spirit:name>CLK.SYS_CLOCK</spirit:name>
+        <spirit:displayName>Clk</spirit:displayName>
+        <spirit:description>Clock</spirit:description>
+        <spirit:busType spirit:library="signal" spirit:name="clock" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:abstractionType spirit:library="signal" spirit:name="clock_rtl" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:slave/>
+        <spirit:portMaps>
+          <spirit:portMap>
+            <spirit:logicalPort>
+              <spirit:name>CLK</spirit:name>
+            </spirit:logicalPort>
+            <spirit:physicalPort>
+              <spirit:name>sys_clock</spirit:name>
+            </spirit:physicalPort>
+          </spirit:portMap>
+        </spirit:portMaps>
+        <spirit:parameters>
+          <spirit:parameter>
+            <spirit:name>FREQ_HZ</spirit:name>
+            <spirit:value>100000000</spirit:value>
+          </spirit:parameter>
+          <spirit:parameter>
+            <spirit:name>PHASE</spirit:name>
+            <spirit:value>0.000</spirit:value>
+          </spirit:parameter>
+        </spirit:parameters>
+      </spirit:busInterface>
+    </spirit:busInterfaces>
+    <spirit:model>
+      <spirit:views>
+        <spirit:view>
+          <spirit:name>BlockDiagram</spirit:name>
+          <spirit:envIdentifier>:vivado.xilinx.com:</spirit:envIdentifier>
+          <spirit:hierarchyRef spirit:library="BlockDiagram" spirit:name="design_2_imp" spirit:vendor="xilinx.com" spirit:version="1.00.a"/>
+        </spirit:view>
+      </spirit:views>
+      <spirit:ports>
+        <spirit:port>
+          <spirit:name>miso</spirit:name>
+          <spirit:wire>
+            <spirit:direction>in</spirit:direction>
+          </spirit:wire>
+        </spirit:port>
+        <spirit:port>
+          <spirit:name>cs</spirit:name>
+          <spirit:wire>
+            <spirit:direction>out</spirit:direction>
+          </spirit:wire>
+        </spirit:port>
+        <spirit:port>
+          <spirit:name>sclk</spirit:name>
+          <spirit:wire>
+            <spirit:direction>out</spirit:direction>
+          </spirit:wire>
+        </spirit:port>
+        <spirit:port>
+          <spirit:name>sys_clock</spirit:name>
+          <spirit:wire>
+            <spirit:direction>in</spirit:direction>
+          </spirit:wire>
+        </spirit:port>
+        <spirit:port>
+          <spirit:name>SW1</spirit:name>
+          <spirit:wire>
+            <spirit:direction>in</spirit:direction>
+          </spirit:wire>
+        </spirit:port>
+      </spirit:ports>
+    </spirit:model>
+  </spirit:component>
+
+  <spirit:design xmlns:spirit="http://www.spiritconsortium.org/XMLSchema/SPIRIT/1685-2009">
+    <spirit:vendor>xilinx.com</spirit:vendor>
+    <spirit:library>BlockDiagram</spirit:library>
+    <spirit:name>design_2_imp</spirit:name>
+    <spirit:version>1.00.a</spirit:version>
+    <spirit:componentInstances>
+      <spirit:componentInstance>
+        <spirit:instanceName>ila_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="ip" spirit:name="ila" spirit:vendor="xilinx.com" spirit:version="6.2"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">design_2_ila_0_0</spirit:configurableElementValue>
+          <spirit:configurableElementValue spirit:referenceId="C_NUM_OF_PROBES">9</spirit:configurableElementValue>
+          <spirit:configurableElementValue spirit:referenceId="C_SLOT_0_AXI_PROTOCOL">AXI4S</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>clk_wiz_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="ip" spirit:name="clk_wiz" spirit:vendor="xilinx.com" spirit:version="5.4"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">design_2_clk_wiz_0_0</spirit:configurableElementValue>
+          <spirit:configurableElementValue spirit:referenceId="USE_BOARD_FLOW">true</spirit:configurableElementValue>
+          <spirit:configurableElementValue spirit:referenceId="CLK_IN1_BOARD_INTERFACE">sys_clock</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>xlconstant_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="ip" spirit:name="xlconstant" spirit:vendor="xilinx.com" spirit:version="1.1"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">design_2_xlconstant_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>PMOD_AD1_Driver_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="PMOD_AD1_Driver" spirit:vendor="xilinx.com" spirit:version="2.1"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">design_2_PMOD_AD1_Driver_0_0</spirit:configurableElementValue>
+          <spirit:configurableElementValue spirit:referenceId="C_M00_AXIS_TDATA_WIDTH">16</spirit:configurableElementValue>
+          <spirit:configurableElementValue spirit:referenceId="NUMBER_OF_OUTPUT_WORDS">512</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+    </spirit:componentInstances>
+    <spirit:interconnections>
+      <spirit:monitorInterconnection>
+        <spirit:name>PMOD_AD1_Driver_0_M00_AXIS</spirit:name>
+        <spirit:monitoredActiveInterface spirit:busRef="M00_AXIS" spirit:componentRef="PMOD_AD1_Driver_0"/>
+        <spirit:monitorInterface spirit:busRef="SLOT_0_AXIS" spirit:componentRef="ila_0"/>
+      </spirit:monitorInterconnection>
+    </spirit:interconnections>
+    <spirit:adHocConnections>
+      <spirit:adHocConnection>
+        <spirit:name>ADC_1</spirit:name>
+        <spirit:externalPortReference spirit:portRef="miso"/>
+        <spirit:internalPortReference spirit:componentRef="PMOD_AD1_Driver_0" spirit:portRef="miso"/>
+      </spirit:adHocConnection>
+      <spirit:adHocConnection>
+        <spirit:name>PMOD_AD1_Driver_0_cs</spirit:name>
+        <spirit:internalPortReference spirit:componentRef="PMOD_AD1_Driver_0" spirit:portRef="cs"/>
+        <spirit:externalPortReference spirit:portRef="cs"/>
+      </spirit:adHocConnection>
+      <spirit:adHocConnection>
+        <spirit:name>PMOD_AD1_Driver_0_sclk</spirit:name>
+        <spirit:internalPortReference spirit:componentRef="PMOD_AD1_Driver_0" spirit:portRef="sclk"/>
+        <spirit:externalPortReference spirit:portRef="sclk"/>
+      </spirit:adHocConnection>
+      <spirit:adHocConnection>
+        <spirit:name>clk_wiz_0_clk_out1</spirit:name>
+        <spirit:internalPortReference spirit:componentRef="clk_wiz_0" spirit:portRef="clk_out1"/>
+        <spirit:internalPortReference spirit:componentRef="ila_0" spirit:portRef="clk"/>
+        <spirit:internalPortReference spirit:componentRef="PMOD_AD1_Driver_0" spirit:portRef="m00_axis_aclk"/>
+      </spirit:adHocConnection>
+      <spirit:adHocConnection>
+        <spirit:name>sys_clock_1</spirit:name>
+        <spirit:externalPortReference spirit:portRef="sys_clock"/>
+        <spirit:internalPortReference spirit:componentRef="clk_wiz_0" spirit:portRef="clk_in1"/>
+      </spirit:adHocConnection>
+      <spirit:adHocConnection>
+        <spirit:name>SW1_1</spirit:name>
+        <spirit:externalPortReference spirit:portRef="SW1"/>
+        <spirit:internalPortReference spirit:componentRef="PMOD_AD1_Driver_0" spirit:portRef="m00_axis_aresetn"/>
+      </spirit:adHocConnection>
+      <spirit:adHocConnection>
+        <spirit:name>xlconstant_0_dout</spirit:name>
+        <spirit:internalPortReference spirit:componentRef="xlconstant_0" spirit:portRef="dout"/>
+        <spirit:internalPortReference spirit:componentRef="PMOD_AD1_Driver_0" spirit:portRef="m00_axis_tready"/>
+      </spirit:adHocConnection>
+    </spirit:adHocConnections>
+  </spirit:design>
+
+</bd:repository>

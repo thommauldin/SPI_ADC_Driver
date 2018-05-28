@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_2" LaunchPart="xc7z020clg484-1" LaunchTime="1521924233">
+  <File Type="PA-TCL" Name="DMA_design_wrapper.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="DMA_design_wrapper_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="DMA_design_wrapper_reports.tcl"/>
+  <File Type="RDS-RDS" Name="DMA_design_wrapper.vds"/>
+  <File Type="RDS-UTIL" Name="DMA_design_wrapper_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="DMA_design_wrapper_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="DMA_design_wrapper.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="DMA_design_wrapper_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="DMA_design_wrapper_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/bd/DMA_design/DMA_design.bd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/DMA_design/hdl/DMA_design_wrapper.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/design_2/design_2.bd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/design_2/hdl/design_2_wrapper.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PMOD_ADC.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/design_1/design_1.bd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/design_1/hdl/design_1_wrapper.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PMODAD1_Driver.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="C:/Xilinx/SDK/2017.4/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_3/src/xgpio_i.h">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="C:/Xilinx/SDK/2017.4/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_3/src/xgpio.h">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="C:/Xilinx/SDK/2017.4/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_3/data/gpio_header.h">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="C:/Xilinx/SDK/2017.4/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_3/data/gpio_intr_header.h">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="C:/Xilinx/SDK/2017.4/data/embeddedsw/XilinxProcessorIPLib/drivers/gpio_v4_3/src/xgpio_l.h">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="DMA_design_wrapper"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/pin_locking.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/pin_locking.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2017"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="design_2_xlconstant_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_processing_system7_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_axi_dma_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_axi_smc_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_rst_ps7_0_100M_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_xlconstant_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="design_2_clk_wiz_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_ila_0_1"/>
+  <BlockFileSet Type="BlockSrcs" Name="design_2_ila_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_xbar_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_axi_gpio_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_xlconcat_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_xlconstant_1_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_PMOD_AD1_Driver_0_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="DMA_design_auto_pc_0"/>
+</GenRun>

@@ -1,0 +1,16 @@
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.bss=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.data=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.data1=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.fixup=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.rodata=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.rodata1=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.sbss=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.sbss2=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.sdata=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.sdata2=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:.text=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:heap=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:heap-size=1024
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:stack=ps7_ddr_0
+com.xilinx.sdk.linkgen.prefs.Polling_DMA\:stack-size=1024
+eclipse.preferences.version=1

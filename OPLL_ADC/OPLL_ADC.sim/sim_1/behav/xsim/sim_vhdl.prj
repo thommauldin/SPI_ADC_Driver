@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../OPLL_ADC.srcs/sources_1/new/PMODAD1_Driver.vhd" \
+"../../../../OPLL_ADC.srcs/sim_1/new/sim.vhd" \
+
+# Do not sort compile order
+nosort

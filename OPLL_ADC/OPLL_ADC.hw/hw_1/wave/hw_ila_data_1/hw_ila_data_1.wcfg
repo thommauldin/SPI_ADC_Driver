@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/NextLab/Vivado/OPLL_ADC/OPLL_ADC/OPLL_ADC.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1782999fs"></ZoomStartTime>
+      <ZoomEndTime time="1792160fs"></ZoomEndTime>
+      <Cursor1Time time="1788000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="181"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wave_markers>
+      <marker time="1820000" label="" />
+      <marker time="10796000" label="" />
+   </wave_markers>
+   <wvobject fp_name="DMA_design_i/PMOD_AD1_Driver_0_m00_axis_tvalid" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DMA_design_i/PMOD_AD1_Driver_0_m00_axis_tvalid</obj_property>
+      <obj_property name="ObjectShortName">PMOD_AD1_Driver_0_m00_axis_tvalid</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DMA_design_i/axi_dma_0_m_axis_mm2s_tvalid" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DMA_design_i/axi_dma_0_m_axis_mm2s_tvalid</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_m_axis_mm2s_tvalid</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DMA_design_i/Net" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DMA_design_i/Net</obj_property>
+      <obj_property name="ObjectShortName">Net</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DMA_design_i/PMOD_AD1_Driver_0_m00_axis_tdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DMA_design_i/PMOD_AD1_Driver_0_m00_axis_tdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PMOD_AD1_Driver_0_m00_axis_tdata[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_FIXED</obj_property>
+      <obj_property name="AnalogYRangeMin">1.84467e+19</obj_property>
+      <obj_property name="AnalogYRRangeMax">720</obj_property>
+   </wvobject>
+   <wvobject fp_name="DMA_design_i/axi_dma_0_m_axis_mm2s_tdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DMA_design_i/axi_dma_0_m_axis_mm2s_tdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_m_axis_mm2s_tdata[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="DMA_design_i/PMOD_AD1_Driver_0_m00_axis_tlast" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">DMA_design_i/PMOD_AD1_Driver_0_m00_axis_tlast</obj_property>
+      <obj_property name="ObjectShortName">PMOD_AD1_Driver_0_m00_axis_tlast</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>
